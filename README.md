@@ -10,14 +10,6 @@ Evaluated Wikipedia edit data to determine if edit rate can be a measure of trut
 
 **Technologies:** Python, Pandas, Matplotlib
 
-### View based content recommender system
-Created a recommender system for anime that is based on whether a viewer actually watched a show instead of what they rated it
-
-**Technologies:** Python, Pandas, Scikit-Learn
-
-### Chess winner machine learning
-Created a neural network to find out how many moves into a game you can guess a winner or if you could guess before the game
-
 **Technologies**: Python, TensorFlow, Pandas, NumPy
 
 ## Skills
